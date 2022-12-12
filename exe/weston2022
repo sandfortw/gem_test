@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "weston2022"
+v = Weston2022::Vote.new
+v.for_me

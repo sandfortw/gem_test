@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Vote for me!"
   spec.description = "I'm running for prez!"
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/sandfortw/gem_test"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
